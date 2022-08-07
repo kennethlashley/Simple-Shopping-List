@@ -1,0 +1,18 @@
+
+body {
+	text-align: center;
+	background-color: darkslategrey;
+	font-family: fantasy, sans-serif;
+	color: black;
+	border-top: solid 8px black;
+}
+
+ul {
+	list-style: none;
+}
+
+
+.done {
+	text-decoration: line-through;
+}
+
